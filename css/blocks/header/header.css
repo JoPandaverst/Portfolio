@@ -1,0 +1,20 @@
+.header {
+  background: #EEEFF1;
+}
+.header__top {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+}
+.header__top-logo {
+  width: 250px;
+  height: 250px;
+  display: inline-block;
+}
+
+
+.header__main-picture {
+  width: 500px;
+  height: 500px;
+}
